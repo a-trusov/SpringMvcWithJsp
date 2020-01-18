@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>SpringMvcWithJsp</groupId>
-  <artifactId>ru.ant.tutorial</artifactId>
+  <artifactId>ru.papont.controllers</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>ru.ant.tutorial Maven Webapp</name>
+  <name>ru.papont.tutorialMaven Webapp</name>
 
 
   <properties>
@@ -39,7 +39,7 @@
   </dependencies>
 
   <build>
-    <finalName>ru.ant.tutorial</finalName>
+    <finalName>ru.papont.controllers</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
